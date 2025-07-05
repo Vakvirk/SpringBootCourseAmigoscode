@@ -4,7 +4,7 @@ import java.util.function.Function;
 
 import org.springframework.stereotype.Service;
 
-import com.example.demo.DTO.SoftwareEngineerDTO;
+import com.example.demo.DTO.SoftwareEngineer.SoftwareEngineerDTO;
 import com.example.demo.model.SoftwareEngineer;
 
 @Service

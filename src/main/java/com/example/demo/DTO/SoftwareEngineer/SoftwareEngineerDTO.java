@@ -1,4 +1,4 @@
-package com.example.demo.DTO;
+package com.example.demo.DTO.SoftwareEngineer;
 
 public record SoftwareEngineerDTO(
         Integer id,
